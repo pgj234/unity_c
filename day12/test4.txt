@@ -1,0 +1,3 @@
+park gwang jin, 40, 50, 60
+jung uew seung, 60, 40, 80
+bong jun ho, 90, 30, 60
